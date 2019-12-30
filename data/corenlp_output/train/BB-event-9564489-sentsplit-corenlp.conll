@@ -1,0 +1,12 @@
+1	Gingivomandibular	gingivomandibular	JJ	JJ	_	2	amod	_	_
+2	infection	infection	NN	NN	_	0	ROOT	_	_
+3	due	due	JJ	JJ	_	2	amod	_	_
+4	to	to	TO	TO	_	3	prep	_	_
+5	Mycobacterium	mycobacterium	NN	NN	_	6	nn	_	_
+6	kansasii	kansasii	NN	NN	_	4	pobj	_	_
+7	in	in	IN	IN	_	6	prep	_	_
+8	a	a	DT	DT	_	9	det	_	_
+9	patient	patient	NN	NN	_	7	pobj	_	_
+10	with	with	IN	IN	_	9	prep	_	_
+11	AIDS	aids	NN	NN	_	10	pobj	_	_
+12	.	.	.	.	_	2	punct	_	_

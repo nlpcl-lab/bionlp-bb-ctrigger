@@ -1,0 +1,13 @@
+1	Vibrio	Vibrio	NNP	NNP	_	4	nn	_	_
+2	fetus	fetus	NN	NN	_	4	nn	_	_
+3	human	human	JJ	JJ	_	4	amod	_	_
+4	infection	infection	NN	NN	_	0	ROOT	_	_
+5	--	--	:	:	_	4	punct	_	_
+6	isolation	isolation	NN	NN	_	4	dep	_	_
+7	from	from	IN	IN	_	6	prep	_	_
+8	a	a	DT	DT	_	12	det	_	_
+9	subacute	subacute	JJ	JJ	_	12	amod	_	_
+10	bacterial	bacterial	JJ	JJ	_	12	amod	_	_
+11	endocarditis	endocarditis	NN	NN	_	12	nn	_	_
+12	case	case	NN	NN	_	7	pobj	_	_
+13	.	.	.	.	_	4	punct	_	_
