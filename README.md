@@ -1,9 +1,9 @@
-#Unsupervised inference of implicit biomedical events using context triggers
+# Unsupervised inference of implicit biomedical events using context triggers
 
 This repository contains source codes and datasets for the paper *Unsupervised inference of implicit biomedical events using context triggers* (a manuscript under review).
 
 
-##Prerequisites
+## Prerequisites
 
 + Python 2.7
 + NLTK (for the WordNet lemmatizer and the Porter stemmer)
@@ -12,7 +12,7 @@ This repository contains source codes and datasets for the paper *Unsupervised i
   e.g.) python -c "import nltk; nltk.download('wordnet')"
 
 
-##How to use
+## How to use
 
 1) Unzip the attached file "bionlp-bb-ctrigger-dist.zip" and go to the directory where the main script 'main.py' is located.
 2) Execute 'main.py' using Python without any command argument, i.e., run "python main.py".
@@ -21,7 +21,7 @@ This repository contains source codes and datasets for the paper *Unsupervised i
 The zip archive file created by the script includes output files (\*.a2) for each input file (\*.a1) in official BB-event format and can thus be directly used as input to the official evaluation service available at http://2016.bionlp-st.org.
 
 
-##Contact
+## Contact
 
 Jin-Woo Chung (jinwoo.chung@kaist.ac.kr)
 
