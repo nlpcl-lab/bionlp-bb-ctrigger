@@ -1,6 +1,6 @@
 # Unsupervised inference of implicit biomedical events using context triggers
 
-This repository contains source codes and datasets for the paper *Unsupervised inference of implicit biomedical events using context triggers* (a manuscript under review).
+This repository contains source codes and datasets for the paper *Unsupervised inference of implicit biomedical events using context triggers (published, BMC Bioinformatics 2020)*.
 
 
 ## Prerequisites
